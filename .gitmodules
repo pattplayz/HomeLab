@@ -1,0 +1,3 @@
+[submodule "arr-dashboard"]
+	path = arr-dashboard
+	url = https://github.com/pattplayz/arr-dashboard.git
